@@ -1,0 +1,48 @@
+[13-Jun-2023 15:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 06:31:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 06:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[13-Jul-2023 01:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[13-Jul-2023 01:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[13-Jul-2023 01:34:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[13-Jul-2023 01:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[12-Sep-2023 19:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[12-Sep-2023 19:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
+[27-Dec-2023 21:42:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/file.php on line 16
+[15-May-2024 09:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/file.php on line 16
+[10-Jun-2024 06:33:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eqt4vbh4chkj/public_html/wp-admin/includes/admin.php on line 16
